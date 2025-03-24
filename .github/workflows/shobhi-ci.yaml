@@ -97,3 +97,7 @@ jobs:
                 git config --global user.name "Shobhit0398"
                 git add kubernetes/productcatalog/deploy.yaml
                 git commit -m "[CI]: Update product catalog image tag"
+
+
+
+                                
